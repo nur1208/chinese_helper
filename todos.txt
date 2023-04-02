@@ -1,0 +1,7 @@
+- {TODO} set up the frontend
+- {TODO} deploy the frontend in vercel
+
+main functionality for this app:
+1 - view chinese tutorial
+2 - interactive conversation 
+3 - hsk exams simulator
