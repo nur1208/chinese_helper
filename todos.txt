@@ -1,4 +1,4 @@
-- {TODO} set up the frontend
+- {DONE} set up the frontend
 - {TODO} deploy the frontend in vercel
 
 main functionality for this app:
